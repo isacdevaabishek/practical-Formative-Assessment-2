@@ -1,0 +1,94 @@
+body{
+    font-family:Barlow Condensed;
+  font-size: 18px;
+
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+   font-family:Barlow Condensed;
+  
+}
+p{
+    color:hsl(221, 23%, 58%); 
+   font-Weight: 700;
+   font-size: 16px;
+}
+nav h6{
+  background-color:rgba(225,231,231,255); 
+  padding: 10px;
+    color: hsl(220, 50%, 17%);
+    text-align: center;
+   margin-top: 0px;
+   border-radius: 10px;
+}
+.main1{
+    display: flex;
+    justify-content: space-around;
+     margin-left: 280px;
+    margin-right: 280px; 
+} 
+.pre{
+    display: flex;
+    justify-content: space-between;
+}
+.main1 h1{
+   color:hsl(220, 50%, 17%);
+}
+
+.main1 img{
+    border-radius: 10px;
+}
+.pre h6{
+     background-color: hsl(22, 89%, 52%) ;
+  padding: 10px;
+    color: white;
+    text-align: center;
+   margin-top: 10px;
+   border-radius: 10px;
+}
+.main2{
+    display: flex;
+    justify-content: center;
+   
+}
+.main2img{
+    margin-right: 80px;
+    
+}
+.img1{
+    margin-right: 20px;
+    border-radius: 10px;
+    filter: invert(30%) sepia(13%) saturate(3207%) hue-rotate(351deg) brightness(95%) contrast(80%);
+}
+
+.img2{
+    border-radius: 10px;
+}
+.main2p h3{
+    color:hsl(220, 50%, 17%);
+    margin-top: 80px;
+ }
+.main3 img{
+    background-color:hsl(22, 89%, 52%) ;
+    padding: 10px;
+    border-radius: 10px;
+} 
+.main3{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 350px;
+    margin-right: 350px; 
+    margin-top: 50px;
+}
+.main3 h4{
+    color:hsl(220, 50%, 17%);
+    
+}
+.battery p{
+font-size: 10px;
+}
+.battery img{
+    width:25px;
+    height:25px;
+}
